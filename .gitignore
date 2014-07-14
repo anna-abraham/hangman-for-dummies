@@ -1,0 +1,4 @@
+.floo
+.flooignore
+__pycache__
+*.sublime-workspace
